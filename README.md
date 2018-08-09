@@ -46,13 +46,13 @@ If you find our work inspiring or our code helpful in your research, please cons
 
 ## Inference
 
-1. Joint inference of 3D room layout and 3D objects for sample, for example
+1. Joint inference of 3D room layout and 3D objects with image id, for example, 11. 
     
         python inference.py -lo 11
         
 * Inference takes about one hour for each image, we are working on accelerating the rendering process.
         
-2. Infer latent human context and then joint infer layout, objects and human. Before that, you need to infer 3D room layout and 3D objects first or download our generated <a href="https://drive.google.com/file/d/13o3HSkmW_rOl1Mo3w6XIlbzQI1Aj6LQi/view?usp=sharing">results</a>. For example, 
+2. Infer latent human context and then joint infer layout, objects and human. Before that, you need to infer 3D room layout and 3D objects first or download our generated <a href="https://drive.google.com/file/d/13o3HSkmW_rOl1Mo3w6XIlbzQI1Aj6LQi/view?usp=sharing">results</a>.
 
         python inference.py -human 241
         
