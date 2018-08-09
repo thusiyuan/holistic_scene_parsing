@@ -1,0 +1,9 @@
+numpy
+PyOpenGL
+pygame
+matplotlib
+scipy
+sklearn
+Pillow
+shapely
+scikit-learn
