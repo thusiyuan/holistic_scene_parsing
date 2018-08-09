@@ -34,7 +34,7 @@ If you find our work inspiring or our code helpful in your research, please cons
 ## Install 
 1.   pip install -r requirments.txt
 
-2.   Install osmesa (offscreen rendering) and set up the environment following the instruction at osmesa/osmesa.md
+2.   Install osmesa (offscreen rendering) and set up the environment following the instruction at <a href="https://github.com/thusiyuan/holistic_scene_parsing/blob/master/osmesa/osmesa.md">osmesa/osmesa.md</a>
 
 
 ## Data
